@@ -13,4 +13,4 @@ Meet **Kyubit**, our friendly orchestrator! Kyubit helps you connect different A
 ### 🚀 Quick Start
 Current status: **Under heavy development.** 🏗️
 
-🌐 [Visit queai.dev](https://www.google.com/search?q=https://queai.dev) | 📧 [Contact](mailto:hola@queai.dev)
+🌐 [Visit queai.dev](https://queai.dev) | 📧 [Contact](mailto:hola@queai.dev)
