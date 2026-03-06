@@ -1,16 +1,14 @@
-## Hi there 👋
+# 🐙 QueAI - The Local AI Orchestrator
 
-<!--
-**queai-project/queai-project** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**QueAI** is a modular, privacy-first ecosystem designed to run powerful AI models on your own hardware using Docker. 
 
-Here are some ideas to get you started:
+Meet **Kyubit**, our friendly orchestrator! Kyubit helps you connect different AI modules like puzzles.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Key Features:
+* **100% Local:** No cloud, no API fees, total privacy.
+* **Modular:** Only run what you need (OCR, STT, LLMs).
+* **Easy Setup:** Powered by Docker for a "one-command" experience.
+* **Open Source:** Built by the community, for the community.
+
+### Quick Start
+Current status: **Under heavy development.** 🏗️
