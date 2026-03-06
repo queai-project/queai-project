@@ -4,7 +4,7 @@
 
 Meet **Kyubit**, our friendly orchestrator! Kyubit helps you connect different AI modules like puzzles.
 
-### ✨ Key Features:
+### Key Features:
 
 * **100% Local:** No cloud, no API fees, total privacy.
 * **Modular:** Only run what you need (OCR, STT, LLMs).
@@ -13,11 +13,11 @@ Meet **Kyubit**, our friendly orchestrator! Kyubit helps you connect different A
 
 ### Quick Start
 
-Current status: **Under heavy development.** 🏗️
+Current status: **Under heavy development.**
 
 ---
 
-### 🤝 Connect with the project
+### Connect with the project
 
 * 🌐 **Website:** [queai.dev](https://queai.dev)
 * 🐙 **GitHub:** [QueAI](https://github.com/queai-project)
