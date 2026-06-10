@@ -12,7 +12,7 @@ Meet **Kyubit**, our friendly orchestrator! Kyubit helps you connect different A
 
 ### Quick Start
 
-Current status: **v1.0.1**
+Current status: Developing through the community
 
 ### Connect with the project
 
