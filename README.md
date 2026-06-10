@@ -6,14 +6,13 @@ Meet **Kyubit**, our friendly orchestrator! Kyubit helps you connect different A
 
 ### Key Features:
 
-* **100% Local:** No cloud, no API fees, total privacy.
 * **Modular:** Only run what you need (OCR, STT, LLMs).
 * **Easy Setup:** Powered by Docker for a "one-command" experience.
 * **Open Source:** Built by the community, for the community.
 
 ### Quick Start
 
-Current status: **v1.0.0**
+Current status: **v1.0.1**
 
 ### Connect with the project
 
